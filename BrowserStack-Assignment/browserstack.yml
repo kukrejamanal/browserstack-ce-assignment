@@ -1,5 +1,5 @@
-userName: manalkukreja_HjOYl1
-accessKey: ubgpxQsKkDTSJR3bVCsi
+userName: BROWSERSTACK_USERNAME
+accessKey: BROWSERSTACK_ACCESS_KEY
 
 framework: python
 

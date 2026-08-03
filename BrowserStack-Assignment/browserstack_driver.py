@@ -3,8 +3,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.edge.options import Options as EdgeOptions
 from selenium.webdriver.safari.options import Options as SafariOptions
 
-USERNAME = "manalkukreja_HjOYl1"
-ACCESS_KEY = "ubgpxQsKkDTSJR3bVCsi"
+USERNAME = "BROWSERSTACK_USERNAME"
+ACCESS_KEY = "BROWSERSTACK_ACCESS_KEY"
 
 URL = f"https://{USERNAME}:{ACCESS_KEY}@hub-cloud.browserstack.com/wd/hub"
 
