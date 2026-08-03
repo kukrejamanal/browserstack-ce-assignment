@@ -1,6 +1,8 @@
 # 📰 El País Opinion Scraper
 
-> **Browser Automation • Web Scraping • Translation API • Text Analysis • BrowserStack Parallel Testing**
+> **BrowserStack Coding Assignment**
+>
+> 🚀 Selenium • 🌐 BrowserStack • 🌍 Translation API • 📊 Text Analysis
 
 A Python-based Selenium automation project developed for the **BrowserStack Coding Assignment**. The project scrapes opinion articles from **El País**, translates article titles into English, performs text analysis, and validates execution across multiple browsers using BrowserStack.
 
